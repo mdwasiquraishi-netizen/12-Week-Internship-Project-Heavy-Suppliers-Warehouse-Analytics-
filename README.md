@@ -32,3 +32,5 @@ Understand the Heavy Suppliers & Warehouse dataset, its business context, table 
 * Several tables require validation before being used as relationship keys.
 * Transaction tables contain significantly more records than master tables, making a star-schema model appropriate.
 
+  ----------------------------------
+
