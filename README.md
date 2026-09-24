@@ -33,4 +33,38 @@ Understand the Heavy Suppliers & Warehouse dataset, its business context, table 
 * Transaction tables contain significantly more records than master tables, making a star-schema model appropriate.
 
   ----------------------------------
+# Week 02 – Data Cleaning & Transformation
+
+## Objective
+
+Prepare the raw datasets for reliable analysis by correcting data types, cleaning text, and validating data quality.
+
+## Work Completed
+
+* Removed blank rows and unnecessary spaces.
+* Applied Trim and Clean transformations to text columns.
+* Standardized date, numeric, and text data types.
+* Converted warehouse capacity values into numeric values.
+* Handled null values appropriately.
+* Created validation columns for stock and transaction data.
+* Checked duplicate IDs and inconsistent records.
+
+## Tools Used
+
+* Power Query
+* Power BI
+* Excel
+
+## Outputs
+
+* Cleaned datasets
+* Data-quality validation
+* Standardized columns
+* Transformation queries
+
+## Key Insights
+
+* Some IDs contain duplicates and require business-level validation before creating one-to-many relationships.
+* Cancelled purchase orders contain blank received dates, which should be preserved rather than replaced.
+* Inventory stock values require additional validation against stock ledger movements.
 
