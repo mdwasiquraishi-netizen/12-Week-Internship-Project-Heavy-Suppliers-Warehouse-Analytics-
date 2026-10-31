@@ -133,6 +133,11 @@ Analyze sales performance across customers, products, branches, channels, and ti
 - Sales performance can be analyzed at both order and line-item level.
 - Time-based analysis helps identify changes in sales demand.
 - Branch, product, and sales-channel analysis provides a detailed view of business performance.
+
+## Screenshots of Overview and Sales Analysis Dashboard
+<img width="981" height="552" alt="Supply Overview" src="https://github.com/user-attachments/assets/ba6c7742-09a3-4b90-a7fe-c5cc4466b65b" />
+<img width="982" height="552" alt="Supply Sales" src="https://github.com/user-attachments/assets/353c8340-dcc8-476d-a59b-07b33fb792a2" />
+
 -------------------------------------
 # Week 05 – Purchase Order Analysis
 
